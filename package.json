@@ -1,0 +1,8 @@
+{
+ "scripts": {
+  "serve": "wcd-cli serve . --id 6DZSBhBtLnxNGVoISnxN --open"
+ },
+ "devDependencies": {
+  "dsd-cli": "latest"
+ }
+}
